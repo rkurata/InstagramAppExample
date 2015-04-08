@@ -1,3 +1,8 @@
+Assignment 0
+Rachel Kurata
+Cogs 121 SP 15
+
+
 Instagram Example
 ===========
 
